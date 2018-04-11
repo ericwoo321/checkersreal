@@ -1,6 +1,6 @@
 
 public enum PieceType {
 
-	RED,BLACK;
+	RED,BLACK,BLACKKING,REDKING;
 	
 }
